@@ -13,9 +13,9 @@ The system provides the following predictive capabilities:
 
 # 👥 **Team**
 
-- [Nancy Onyejiaka](https://github.com/kvmoura).
+- [Nancy Onyejiaka](https://github.com/nancyonyejiaka).
 - [Shreyas Prakash](https://github.com/shreyas115).
-- [Vishak Nair](https://github.com/NataliaDelCoco).
+- [Vishak Nair](https://github.com/Vishak27).
 
 # More information
 

@@ -1,3 +1,3 @@
 # Figures directory
 
-Use this directory to store "publication-ready" figures that you create in your analysis.
+Use this directory to store "submission-ready" figures that we create in our analysis.

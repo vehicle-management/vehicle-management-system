@@ -17,7 +17,7 @@ The system provides the following predictive capabilities:
 - Vehicle Popularity Prediction: Predict the popularity of different rental car types.
 - Model-Specific Price Prediction: Estimate rental prices for specific car models based on historical data.
 
-### 🐍 Environment Setup
+## Environment Setup
 
 1. Install [Python 3.9](python.org) or higher on your computer.
 2. Install [anaconda](https://www.anaconda.com/products/individual) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) on your computer.
@@ -71,15 +71,6 @@ Now, whenever you open a Jupyter Notebook, you should see the `venv-vehicle-mana
 Run Data Analysis Notebooks:
 2. Use the analysis notebooks to generate insights and visualizations from the preprocessed data.
 3. Execute the machine learning notebooks to train models and make predictions based on the data.
-
-# More information
-
-Click on the links below to learn how to best use this repository.
-
-<details><summary>🧰 Dev Setup</summary>
-
-## 🧰 Dev Setup
-
 
 
 </details>

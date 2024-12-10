@@ -23,23 +23,23 @@ The system provides the following predictive capabilities:
 ## Available Notebooks
 
 1. Data Preprocessing Notebooks
-`car_dekho_data.ipynb`: Preprocessing for CarDekho vehicle dataset.
-`car_rental_data_preprocessing.ipynb`: Cleaning and preparation of rental data.
-`car_sales_data_preprocessing.ipynb`: Preprocessing car sales data for analysis.
-`enterprise_station_preprocessing.ipynb`: Preprocessing store location data for rental trends.
-`used_cars_data.ipynb`: Processing data related to used cars and pricing trends.
-`vehicles_data.ipynb`: General preprocessing for vehicle-related datasets.
+- `car_dekho_data.ipynb`: Preprocessing for CarDekho vehicle dataset.
+- `car_rental_data_preprocessing.ipynb`: Cleaning and preparation of rental data.
+- `car_sales_data_preprocessing.ipynb`: Preprocessing car sales data for analysis.
+- `enterprise_station_preprocessing.ipynb`: Preprocessing store location data for rental trends.
+- `used_cars_data.ipynb`: Processing data related to used cars and pricing trends.
+- `vehicles_data.ipynb`: General preprocessing for vehicle-related datasets.
 
-2. Data Analysis Notebooks
-`DataAnalysisProj.ipynb`: Visual and statistical analysis of vehicle pricing, rentals, and sales.
-`DataAnalysisProjSQL.ipynb`: SQL-based analysis for querying insights directly from the database.
+3. Data Analysis Notebooks
+- `DataAnalysisProj.ipynb`: Visual and statistical analysis of vehicle pricing, rentals, and sales.
+- `DataAnalysisProjSQL.ipynb`: SQL-based analysis for querying insights directly from the database.
 
-3. Machine Learning Notebooks
-`modelCarSales.ipynb`: Predicting car sales prices using machine learning techniques.
-`modelVehicles.ipynb`: Predicting vehicle pricing and trends using regression models.
+4. Machine Learning Notebooks
+- `modelCarSales.ipynb`: Predicting car sales prices using machine learning techniques.
+- `modelVehicles.ipynb`: Predicting vehicle pricing and trends using regression models.
 
-4. Application Interafce
-`project_interface.py`
+5. Application Interafce
+- `project_interface.py`
 
 ## Workflow
 1. Start with the preprocessing notebooks to clean and prepare the data for analysis and modeling.

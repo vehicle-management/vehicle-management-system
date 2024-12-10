@@ -3,6 +3,12 @@
 
 This repository contains the code and data for a data science project focused on predicting key metrics for a car rental and sale system. The objective of this system is to leverage data science models to forecast rental/sale pricing and vehicle popularity based on various factors.
 
+# 👥 **Team**
+
+- [Nancy Onyejiaka](https://github.com/nancyonyejiaka).
+- [Shreyas Prakash](https://github.com/shreyas115).
+- [Vishak Nair](https://github.com/Vishak27).
+
 ## Objectives
 
 The system provides the following predictive capabilities:
@@ -11,12 +17,31 @@ The system provides the following predictive capabilities:
 - Vehicle Popularity Prediction: Predict the popularity of different rental car types.
 - Model-Specific Price Prediction: Estimate rental prices for specific car models based on historical data.
 
-# 👥 **Team**
+### 🐍 Environment Setup
 
-- [Nancy Onyejiaka](https://github.com/nancyonyejiaka).
-- [Shreyas Prakash](https://github.com/shreyas115).
-- [Vishak Nair](https://github.com/Vishak27).
+1. Install [Python 3.9](python.org) or higher on your computer.
+2. Install [anaconda](https://www.anaconda.com/products/individual) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) on your computer.
+3. Create a new conda environment:
 
+    ```bash
+    conda create -y -n=venv-vehicle-management-system python=3.10.8
+    ```
+4. Activate the environment and make sure you have `pip` installed inside that environment:
+
+  ```console
+  # the exact `activate` command will vary depending on your OS
+  conda activate venv-vehicle-management-system 
+  ```
+
+💡 Remember to activate this particular `conda` environment whenever you reopen VSCode/the terminal.
+
+10. Install required libraries
+
+  ```console
+  pip install -r requirements.txt
+  ```
+
+Now, whenever you open a Jupyter Notebook, you should see the `venv-vehicle-management-system` kernel available. You can also run `jupyter kernelspec list` to see all the kernels available on your computer.
 
 # Repository Structure & Workflow
 
@@ -55,31 +80,7 @@ Click on the links below to learn how to best use this repository.
 
 ## 🧰 Dev Setup
 
-### 🐍 The Python setup
 
-1. Install [Python 3.9](python.org) or higher on your computer.
-2. Install [anaconda](https://www.anaconda.com/products/individual) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) on your computer.
-3. Create a new conda environment:
-
-    ```bash
-    conda create -y -n=venv-vehicle-management-system python=3.10.8
-    ```
-4. Activate the environment and make sure you have `pip` installed inside that environment:
-
-  ```console
-  # the exact `activate` command will vary depending on your OS
-  conda activate venv-vehicle-management-system 
-  ```
-
-💡 Remember to activate this particular `conda` environment whenever you reopen VSCode/the terminal.
-
-10. Install required libraries
-
-  ```console
-  pip install -r requirements.txt
-  ```
-
-Now, whenever you open a Jupyter Notebook, you should see the `venv-vehicle-management-system` kernel available. You can also run `jupyter kernelspec list` to see all the kernels available on your computer.
 
 </details>
 

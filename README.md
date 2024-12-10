@@ -17,6 +17,36 @@ The system provides the following predictive capabilities:
 - [Shreyas Prakash](https://github.com/shreyas115).
 - [Vishak Nair](https://github.com/Vishak27).
 
+
+# Repository Structure & Workflow
+
+## Available Notebooks
+
+1. Data Preprocessing Notebooks
+`car_dekho_data.ipynb`: Preprocessing for CarDekho vehicle dataset.
+`car_rental_data_preprocessing.ipynb`: Cleaning and preparation of rental data.
+`car_sales_data_preprocessing.ipynb`: Preprocessing car sales data for analysis.
+`enterprise_station_preprocessing.ipynb`: Preprocessing store location data for rental trends.
+`used_cars_data.ipynb`: Processing data related to used cars and pricing trends.
+`vehicles_data.ipynb`: General preprocessing for vehicle-related datasets.
+
+2. Data Analysis Notebooks
+`DataAnalysisProj.ipynb`: Visual and statistical analysis of vehicle pricing, rentals, and sales.
+`DataAnalysisProjSQL.ipynb`: SQL-based analysis for querying insights directly from the database.
+
+3. Machine Learning Notebooks
+`modelCarSales.ipynb`: Predicting car sales prices using machine learning techniques.
+`modelVehicles.ipynb`: Predicting vehicle pricing and trends using regression models.
+
+4. Application Interafce
+`project_interface.py`
+
+## Workflow
+1. Start with the preprocessing notebooks to clean and prepare the data for analysis and modeling.
+Run Data Analysis Notebooks:
+2. Use the analysis notebooks to generate insights and visualizations from the preprocessed data.
+3. Execute the machine learning notebooks to train models and make predictions based on the data.
+
 # More information
 
 Click on the links below to learn how to best use this repository.
@@ -50,17 +80,6 @@ Click on the links below to learn how to best use this repository.
   ```
 
 Now, whenever you open a Jupyter Notebook, you should see the `venv-vehicle-management-system` kernel available. You can also run `jupyter kernelspec list` to see all the kernels available on your computer.
-
-</details>
-
-<details> <summary>⚒️ (Advanced) Optional Setup</summary>
-
-## ⚒️ (Optional) Helpful Extensions
-
-Feel free to just ignore this stuff but if you want to replicate my setup, just follow the steps below:
-
--  Install the [Python extension on VSCode](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
--  Install the [Jupyter extension on VSCode](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
 </details>
 
